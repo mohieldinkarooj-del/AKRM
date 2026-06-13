@@ -1,0 +1,6 @@
+{
+  "name": "AKRM",
+  "description": "تطبيق تفاعلي بصري وصوتي مبهج لمساندة الأطفال ذوي اضطراب طيف التوحد بصوت فتى واقعي باللغة العربية الفصحى لتنظيم الروتين والتواصل الفعال.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
